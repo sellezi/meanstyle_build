@@ -1,0 +1,21 @@
+{
+  "name": "meanstyle",
+  "description": "Material Design Style Sheet",
+  "version": "0.0.2",
+  "keywords": [
+    "material",
+    "design",
+    "typography"
+  ],
+  "author": "Sergey Kupletsky <s.kupletsky@gmail.com> (http://github.com/zavoloklom)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sellezi/meanstyle_build/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sellezi/meanstyle_build.git"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
